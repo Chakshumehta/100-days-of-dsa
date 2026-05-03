@@ -9,6 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,12 +20,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Chakshumehta/100-days-of-dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
